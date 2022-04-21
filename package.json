@@ -28,8 +28,10 @@
     "babel-loader": "^8.2.4",
     "cross-env": "^7.0.3",
     "express": "^4.17.3",
+    "mongoose": "^6.3.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-qr-code": "^2.0.5"
   },
   "devDependencies": {
     "eslint": "^8.13.0",
